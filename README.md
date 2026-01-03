@@ -2,7 +2,6 @@ Pettle 🐾
 Winner - HACK N' INNOVATE (INNOHACKS) | Team: INNO-TITANS
 
 Pettle is an AI-driven mental health platform designed to detect early signs of Schizophrenia, Suicidal Intentions, Anxiety, and Depression. By analyzing user-generated content on social media platforms like Twitter and WhatsApp, Pettle identifies mental health struggles that often go unnoticed due to social stigma or lack of awareness.
-+4
 
 🏆 Hackathon Achievement
 
@@ -12,17 +11,6 @@ Result: Winning Project
 
 
 Theme: Work - Life - Health Trio 
-
-
-Team: INNO-TITANS 
-
-Aakash Sachan (B.Tech CSIT) 
-
-Keshav Agarwal (B.Tech EN) 
-
-Harshit Varshney (B.Tech EN) 
-
-Mrityunjay Anand Verma (B.Tech IT) 
 
 🌟 Key Features
 
@@ -34,11 +22,11 @@ Twitter Integration: Analyzes tweets based on a provided username to identify tr
 
 
 Passwordless Authentication: A seamless login flow designed for high accessibility among adolescents and PWDs.
-+1
+
 
 
 Holistic Healing: Provides resources for Art Therapy, group therapy, and expert video conferencing.
-+2
+
 
 🛠️ Technical Stack
 Frontend: HTML5, CSS3, JavaScript (Vanilla).
